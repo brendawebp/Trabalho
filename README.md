@@ -2,7 +2,7 @@
 
 # CAPÍTULO 2
 
- ## O capítulo 2 do livro Código Limpo apresenta a importância da escolha de nomes significativos no desenvolvimento de software. Como os nomes estão presentes em variáveis, funções, métodos, classes, arquivos e pacotes, a forma como são definidos influencia diretamente a legibilidade, compreensão e manutenção do código.
+  O capítulo 2 do livro Código Limpo apresenta a importância da escolha de nomes significativos no desenvolvimento de software. Como os nomes estão presentes em variáveis, funções, métodos, classes, arquivos e pacotes, a forma como são definidos influencia diretamente a legibilidade, compreensão e manutenção do código.
 ## Os nomes devem revelar claramente seu propósito, indicando o que representam, qual sua função e como são utilizados. Quando um nome precisa de comentários para ser entendido, significa que ele não está adequado. Exemplo:
 ## String n;
 
